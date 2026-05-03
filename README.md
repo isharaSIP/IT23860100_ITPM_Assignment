@@ -21,7 +21,7 @@ Before running the tests, ensure you have the following installed on your system
 
 ```bash
 # If using Git
-git clone [GIT_REPOSITORY_LINK]
+git clone [https://github.com/isharaSIP/IT23860100_ITPM_Assignment.git]
 cd test_automation_ui
 
 # Or navigate to the test_automation_ui folder
